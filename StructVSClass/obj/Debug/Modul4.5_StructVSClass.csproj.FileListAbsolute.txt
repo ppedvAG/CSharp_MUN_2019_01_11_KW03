@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\StructVSClass\bin\Debug\StructVSClass.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\StructVSClass\bin\Debug\StructVSClass.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\StructVSClass\bin\Debug\StructVSClass.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\StructVSClass\obj\Debug\Modul4.5_StructVSClass.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\StructVSClass\obj\Debug\StructVSClass.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\StructVSClass\obj\Debug\StructVSClass.pdb

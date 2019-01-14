@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Enumeratoren\bin\Debug\Enumeratoren.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Enumeratoren\bin\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Enumeratoren\bin\Debug\Enumeratoren.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Enumeratoren\obj\Debug\Modul03_Enumeratoren.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Enumeratoren\obj\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Enumeratoren\obj\Debug\Enumeratoren.pdb

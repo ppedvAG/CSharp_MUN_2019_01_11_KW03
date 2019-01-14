@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Mini-Rechner\bin\Debug\Mini-Rechner.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Mini-Rechner\bin\Debug\Mini-Rechner.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Mini-Rechner\bin\Debug\Mini-Rechner.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Mini-Rechner\obj\Debug\Lab01_Mini-Rechner.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Mini-Rechner\obj\Debug\Lab01_Mini-Rechner.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Mini-Rechner\obj\Debug\Mini-Rechner.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Mini-Rechner\obj\Debug\Mini-Rechner.pdb

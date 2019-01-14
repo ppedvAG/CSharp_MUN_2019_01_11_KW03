@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Funktionen\bin\Debug\Funktionen.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Funktionen\bin\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Funktionen\bin\Debug\Funktionen.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Funktionen\obj\Debug\Modul03_Funktionen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Funktionen\obj\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Funktionen\obj\Debug\Funktionen.pdb

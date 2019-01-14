@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Kontrollstrukturen\bin\Debug\Kontrollstrukturen.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Kontrollstrukturen\bin\Debug\Kontrollstrukturen.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Kontrollstrukturen\bin\Debug\Kontrollstrukturen.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.csprojAssemblyReference.cache

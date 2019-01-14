@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Delegates\bin\Debug\Delegates.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Delegates\bin\Debug\Delegates.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Delegates\obj\Debug\Delegates.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Delegates\obj\Debug\Delegates.pdb

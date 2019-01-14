@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\WindowsForms\obj\Debug\WindowsForms.pdb

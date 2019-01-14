@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\bin\Debug\ButtonMovement.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\bin\Debug\ButtonMovement.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\bin\Debug\ButtonMovement.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\obj\Debug\ButtonMovement.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\obj\Debug\ButtonMovement.Form1.resources
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\obj\Debug\ButtonMovement.Properties.Resources.resources
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\obj\Debug\ButtonMovement.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\obj\Debug\ButtonMovement.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\obj\Debug\ButtonMovement.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ButtonMovement\obj\Debug\ButtonMovement.pdb

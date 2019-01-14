@@ -1,0 +1,17 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\UnitTestFahrzeuge.deps.json
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\UnitTestFahrzeuge.runtimeconfig.json
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\UnitTestFahrzeuge.runtimeconfig.dev.json
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\UnitTestFahrzeuge.dll
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\UnitTestFahrzeuge.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\bin\Debug\netcoreapp2.1\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\obj\Debug\netcoreapp2.1\UnitTestFahrzeuge.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\obj\Debug\netcoreapp2.1\UnitTestFahrzeuge.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\obj\Debug\netcoreapp2.1\UnitTestFahrzeuge.AssemblyInfoInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\obj\Debug\netcoreapp2.1\UnitTestFahrzeuge.AssemblyInfo.cs
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\obj\Debug\netcoreapp2.1\UnitTestFahrzeuge.csproj.CopyComplete
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\obj\Debug\netcoreapp2.1\UnitTestFahrzeuge.dll
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\UnitTestFahrzeuge\obj\Debug\netcoreapp2.1\UnitTestFahrzeuge.pdb

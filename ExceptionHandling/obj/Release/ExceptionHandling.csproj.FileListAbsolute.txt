@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ExceptionHandling\bin\Release\ExceptionHandling.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ExceptionHandling\bin\Release\ExceptionHandling.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ExceptionHandling\bin\Release\ExceptionHandling.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ExceptionHandling\obj\Release\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ExceptionHandling\obj\Release\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ExceptionHandling\obj\Release\ExceptionHandling.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\ExceptionHandling\obj\Release\ExceptionHandling.pdb

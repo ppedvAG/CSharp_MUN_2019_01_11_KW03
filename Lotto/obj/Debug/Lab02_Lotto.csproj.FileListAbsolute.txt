@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Lotto\bin\Debug\Lotto.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Lotto\bin\Debug\Lotto.pdb
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Lotto\obj\Debug\Lab02_Lotto.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Lotto\obj\Debug\Lab02_Lotto.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Lotto\obj\Debug\Lotto.exe
+C:\Users\kh2\source\repos\C_Sharp_2019_Mun\Lotto\obj\Debug\Lotto.pdb
